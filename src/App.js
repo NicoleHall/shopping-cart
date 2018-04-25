@@ -12,7 +12,7 @@ class App extends Component {
       <div>
         <Header/>
         <CartItems/>
-        <Footer/>
+        <Footer copyright="&copy; 2016"/>
       </div>
     );
   }
